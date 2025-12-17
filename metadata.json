@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Trix Master Companion",
+  "description": "A comprehensive companion app for the Trix card game. Features a smart scorekeeper, rules reference, dialogue scripts for beginners, and an AI Referee powered by Gemini to settle disputes.",
+  "requestFramePermissions": []
+}
